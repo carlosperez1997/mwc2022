@@ -11,7 +11,7 @@ In the first part of the notebook an exploratoty analysis of the data was perfor
 
 And the second part, consisted on developing a predictive model that enables to know the type of segement each client belongs to as a function of the predictive variables.
 
-The final model achieves a F1 score of 0.8422 in train and 0.7000 in test. 
+The final model achieves a macro F1 score of 0.8422 in train and 0.7000 in test. 
 
 Looking forward how good it performs in the validation set. 
 Building the model has been definetely a challenge (a model with a 0.70 score seems not enough for me)
